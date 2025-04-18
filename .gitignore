@@ -1,0 +1,4 @@
+_build
+.cache/
+compile_commands.json
+src/config.h
